@@ -1,4 +1,4 @@
-package stackr
+package logger
 
 import (
 	"fmt"
