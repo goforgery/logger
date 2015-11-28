@@ -4,6 +4,10 @@
 
 Request logger with custom format support for Forger2.
 
+## Install
+
+	go get github.com/goforgery/logger
+
 ## Use
 
 By default writes Apache style logs to `stdout`.
