@@ -137,7 +137,7 @@ var loggerFormatFunctions map[string]func(*loggerOpt, *f.Request, *f.Response) s
 	Tokens:
 
 		* (not implemented) `:req[header]` ex: `:req[Accept]`
-		* `:res[Content-Length]`
+		* `:res[content-length]`
 		* `:http-version`
 		* `:response-time`
 		* `:remote-addr`
